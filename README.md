@@ -1,1 +1,2 @@
-# helloword_js
+# helloworld_js
+helloworld using javascript
